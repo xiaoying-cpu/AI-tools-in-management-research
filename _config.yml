@@ -1,0 +1,10 @@
+name: AI Tools in Management Research
+description: Exploring AI applications in strategic management and entrepreneurship research
+author: Dr. Xiaoying Wang
+url: https://xiaoying-cpu.github.io/AI-tools-in-management-research
+baseurl: ""
+
+markdown: kramdown
+highlighter: rouge
+
+permalink: /:categories/:title/
