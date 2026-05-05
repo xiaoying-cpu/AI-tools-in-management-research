@@ -13,4 +13,4 @@ Complete guide to installing and configuring Stata MCP with Claude Code on Windo
 
 ---
 
-[Other content...]
+### [Enhancing Literature Review](./enhancing-literature-reviews-with-ai.md)
